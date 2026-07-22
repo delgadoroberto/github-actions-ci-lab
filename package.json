@@ -1,0 +1,33 @@
+{
+  "name": "github-actions-ci-lab",
+  "version": "1.0.0",
+  "description": "A hands-on laboratory demonstrating Continuous Integration (CI) with GitHub Actions and Node.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "echo \"No linter configured yet\""
+  },
+  "keywords": [
+    "github-actions",
+    "ci",
+    "continuous-integration",
+    "nodejs",
+    "jest",
+    "automation",
+    "devsecops"
+  ],
+  "author": "Roberto Delgado",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/delgadoroberto/github-actions-ci-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/delgadoroberto/github-actions-ci-lab/issues"
+  },
+  "homepage": "https://github.com/delgadoroberto/github-actions-ci-lab",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
