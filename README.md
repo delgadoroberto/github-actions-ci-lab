@@ -4,12 +4,44 @@
 
 ---
 
+## Overview
+
+This project demonstrates how to build a Continuous Integration (CI) pipeline using GitHub Actions for a Node.js application.
+
+The repository is designed as a practical, step-by-step lab that covers workflow automation, automated testing, and CI best practices using GitHub Actions.
+
+---
+
+## Project Goals
+
+- Learn GitHub Actions fundamentals
+- Build a Continuous Integration pipeline
+- Automate unit testing with Jest
+- Understand workflow triggers and jobs
+- Apply GitHub repository best practices
+
+---
+
+## Repository Structure
+
+```text
+.
+├── .github/
+│   └── workflows/
+├── docs/
+│   └── screenshots/
+├── src/
+├── tests/
+├── .gitignore
+└── README.md
+```
+
+---
+
 ## Project Status
 
 🚧 Work in Progress
 
-This repository is currently under development.
+This repository is currently being built step by step.
 
-The project will demonstrate how to build, test, and automate a Node.js application using GitHub Actions.
-
-More documentation will be added as the project evolves.
+Additional documentation, workflows, and automation will be added throughout the project.
